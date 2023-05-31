@@ -5,7 +5,7 @@ __Thành viên nhóm__
 - Họ tên: Nguyễn Hoàng Quân -- MSSV: 21120403
 - Email: 21120403@student.hcmus.edu.vn 
 
-- Họ tên: Lê Viết Đạt Trọng -- MSSV: 21120416
+- Họ tên: Lê Viết Đạt Trọng -- MSSV: 21120406
 - Email: 21120406@student.hcmus.edu.vn
 
 ## __Phân công__
