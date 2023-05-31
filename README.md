@@ -161,6 +161,12 @@ Bắt đầu chương trình, khởi tạo đối tượng bằng phương thứ
 
 ![alt-text](https://i.imgur.com/jgVWve8.png)
 
+Sử dụng hàm regex pattern để kiểm tra định dạng của dòng dữ liệu đọc được
+
+![alt-text](https://i.imgur.com/aBFf0TN.png)
+
+![alt-text](https://i.imgur.com/V6TVh1P.png)
+
 ## __3. Phân tách dữ liệu__
 
 Tạo một class Iparser dùng để phân tách các dòng dữ liệu đã đọc được, phân tách chúng thành các đối tượng hình học
